@@ -27,6 +27,6 @@ Run the program:
 
 java Calculator
 
-## Authore
+## Author
 
 Santhosh Munagala 
